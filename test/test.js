@@ -39,7 +39,8 @@ describe('GET', function(){
         "bird":"tweet",
         "turtle":"bbrr",
         "cow":"mooooouuuuu",
-        "sheep":"baa"
+        "sheep":"baa",
+       	"duck":"quack"
       }, done);
   });
 });
