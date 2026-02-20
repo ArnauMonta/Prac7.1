@@ -11,6 +11,7 @@ var animals = {
     "lion": "roar",
     "bird": "tweet",
     "turtle" : "bbrr",
+    "sheep": "baa",
     "cow" : "mooooouuuuu"
 }
 
